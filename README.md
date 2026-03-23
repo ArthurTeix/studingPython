@@ -1,5 +1,5 @@
 # studingPython
-Criei este repositório pós fim de estudos pois ainda estava conhecendo o mundo da programação e aprendendo requisitos básicos, como:
+Criei este repositório pós fim de estudos pois ainda estava conhecendo o mundo da programação e aprendendo habilidades, como:
 
 - Lógica de Programação
 - Tipos de Dados
@@ -10,5 +10,7 @@ Criei este repositório pós fim de estudos pois ainda estava conhecendo o mundo
 - Dicionários
 - Funções 
 - Modularização e Pacotes
+- Tratamento de Erros
+- Manipulação de Arquivos 
 
-Pretendo me aprofundar mais na linguagem Python, estudando APIs e Bibliotecas nativas da linguagem. ☺ 
+Pretendo me aprofundar mais na linguagem Python, estudando APIs, Frameworks e Bibliotecas nativas da linguagem. ☺ 
